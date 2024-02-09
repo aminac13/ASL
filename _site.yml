@@ -1,0 +1,14 @@
+name: "."
+title: "AminaSphericalLtd"
+description: |
+  name of your website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Perfume"
+      href: Perfume.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article

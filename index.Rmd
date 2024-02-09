@@ -1,0 +1,21 @@
+---
+title: "ASL"
+image: "Images/perfume.jfif"
+links:
+  - label: '<i class="fa-brands fa-tiktok fa-bounce" style="color: #000000;"></i>Tiktok'
+    url: 'https://instagram.com/R_Girls_School target="_blank"'
+  - label: '<i class="fa-brands fa-instagram fa-bounce" style="color: #000000;"></i> Instagram'
+    url: 'https://github.com/R-Girls target="_blank"'
+  - label: '<i class="fas fa-envelope"></i> Contact Us'
+    url: "mailto:amina.amina.chowdhury_22@greenoak.bham.sch.uk"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+# Introduction  
+
+ASL sells perfume and we are on Google, our shop is also located at unit 6 in Small Heath Highway. 
+ 
+![](Images/lotsofoud.jpg){width=50%}
+  
