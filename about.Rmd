@@ -1,5 +1,5 @@
 ---
-title: "About this site"
+title: "About"
 description: |
   Some additional details about the website
 ---
@@ -8,3 +8,4 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+My website is 

@@ -15,7 +15,7 @@ site: distill::distill_website
  
 # Introduction  
 
-ASL sells perfume and we are on Google, our shop is also located at unit 6 in Small Heath Highway. 
+Amina Spherical Limited sells a variety of perfumes.
  
 ![](Images/lotsofoud.jpg){width=50%}
-  
+

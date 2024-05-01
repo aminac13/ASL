@@ -2,34 +2,33 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
+      "title": "About",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2024-02-09T12:41:16+00:00"
+      "contents": "\nMy website is\n\n\n\n",
+      "last_modified": "2024-05-01T10:50:49+00:00"
     },
     {
       "path": "index.html",
       "title": "ASL",
       "author": [],
-      "contents": "\n\n          \n          \n          AminaSphericalLtd\n          \n          \n          Home\n          Perfume\n          About\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              ASL\n            \n            \n              \n                \n                    \n                      \n                        Tiktok\n                      \n                    \n                  \n                                    \n                    \n                      \n                        \n                        Instagram\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Contact Us\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Introduction\n            ASL sells perfume and we are on Google, our shop is also\n            located at unit 6 in Small Heath Highway.\n            \n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              ASL\n            \n            \n              \n                \n                                    \n                    \n                      Tiktok\n                    \n                  \n                                    \n                    \n                      \n                      Instagram\n                    \n                  \n                                    \n                    \n                       Contact Us\n                    \n                  \n                                  \n              \n            \n            \n              \n              Introduction\n              ASL sells perfume and we are on Google, our shop is\n              also located at unit 6 in Small Heath Highway.\n              \n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2024-02-09T12:54:15+00:00"
+      "contents": "\n\n          \n          \n          AminaSphericalLtd\n          \n          \n          Home\n          Perfume\n          About\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              ASL\n            \n            \n              \n                \n                    \n                      \n                        Tiktok\n                      \n                    \n                  \n                                    \n                    \n                      \n                        \n                        Instagram\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Contact Us\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Introduction\n            Amina Spherical Limited sells a variety of perfumes.\n            \n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              ASL\n            \n            \n              \n                \n                                    \n                    \n                      Tiktok\n                    \n                  \n                                    \n                    \n                      \n                      Instagram\n                    \n                  \n                                    \n                    \n                       Contact Us\n                    \n                  \n                                  \n              \n            \n            \n              \n              Introduction\n              Amina Spherical Limited sells a variety of\n              perfumes.\n              \n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2024-05-01T10:50:50+00:00"
     },
     {
       "path": "info.html",
       "title": "About",
-      "description": "In this website you can find a variety of perfumes, for young, old, boy and girl.",
+      "description": "In this website you can find a variety of perfumes, for young and old.",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-02-09T12:41:17+00:00"
+      "last_modified": "2024-05-01T10:50:50+00:00"
     },
     {
       "path": "Perfume.html",
       "title": "Perfumes",
-      "description": "A new article created using the Distill format.\n",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2024-02-09T12:41:17+00:00"
+      "contents": "\n\nHer Secret World is a perfume produced for females, it is a soft sweet floral fragrant. This product is made from Orange Blossom, Vanilla, Iris, Jasmine, Bitter Orange, Amber, Peach, Pink Pepper, Rose, Tuberose.\n\nHeibah is a perfume specially made for women, it consumes of Lemon, Mandarin Orange, Bulgarian Rose, Tuberose, Jasmine, Sandalwood, Caramel, Musk, Cashmere Wood, Cinnamon, Patchouli and Amber.\n\nJazzab Gold is ladies perfume, the ingredients are: alcohol denat, water, benzyl salicylate,benzyl alcohol, coumarin, geraniol, citronellol, citral.\n\nBaccarat Rough 540 is a unisex perfume, it contains of, egyptian jasmine, bitter almond, grey amber, and woody musk.\n\n\n\n\n",
+      "last_modified": "2024-05-01T10:50:51+00:00"
     }
   ],
   "collections": []

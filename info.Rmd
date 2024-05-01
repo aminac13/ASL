@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: In this website you can find a variety of perfumes, for young, old, boy and girl.
+description: In this website you can find a variety of perfumes, for young and old.
 
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Perfumes"
-description: |
-  A new article created using the Distill format.
+description: 
+  
 
 output: distill::distill_article
 ---
@@ -10,8 +10,23 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![](Images/1.jpg){width=30%}
+Her Secret World is a perfume produced for females, it is a soft sweet floral fragrant.  This product is made from Orange Blossom, Vanilla, Iris, Jasmine, Bitter Orange, Amber,  Peach, Pink Pepper, Rose, Tuberose.
 
 
 
 
+![](Images/2.jpg){width=30%}
+Heibah is a perfume specially made for women, it consumes of  Lemon, Mandarin Orange,   Bulgarian Rose, Tuberose, Jasmine, Sandalwood, Caramel, Musk, Cashmere Wood, Cinnamon, Patchouli and  Amber.
 
+
+
+![](Images/3.jfif){width=30%}
+Jazzab Gold is ladies perfume, the ingredients are:  alcohol denat, water, benzyl salicylate,benzyl alcohol, coumarin, geraniol, citronellol, citral.
+
+
+
+![](Images/4.jpg){width=30%}
+Baccarat Rough 540  is a unisex perfume, it contains of, egyptian jasmine, bitter almond, grey amber, and woody musk.
+
+![](Image/oud.jfif){width=30%}

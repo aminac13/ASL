@@ -12,3 +12,4 @@ navbar:
     - text: "About"
       href: about.html
 output: distill::distill_article
+theme: mytheme.css
