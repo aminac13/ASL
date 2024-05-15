@@ -8,4 +8,13 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-My website is 
+Welcome to my website, where scents captivate the soul and evoke emotions and memories. Perfumes show personal expression and cultural identity.
+
+For many, a fragrance is not merely a pleasant aroma; it is a statement of identity, a piece of invisible attire that completes their daily ensemble. It can whisper secrets about the person who wears it.
+
+Psychological Effect:
+
+Mood Enhancement: Certain fragrances can uplift, relax, or energize, influencing the wearer’s mood and well being.
+
+
+
